@@ -1,4 +1,4 @@
-# Wedding Organizer Website - PrastCloud #
+# Wedding Organizer Website - WeddingCuy #
 
 
 ## Teknologi yang digunakan ##
