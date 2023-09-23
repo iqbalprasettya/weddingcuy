@@ -28,20 +28,11 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/iqbalprasettya/simple-crud-laravel.git
+git clone https://github.com/iqbalprasettya/weddingcuy.git
 ```
 
-2. Migrate the Database Migration
+2. Import Database to PHPMyAdmin
 
-```sh
-php artisan migrate
-```
-
-3. Run in local server
-
-```sh
-php artisan serve
-```
 
 
 
