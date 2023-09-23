@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <h3 align="center">Simple Crud Laravel</h3>
+  <h3 align="center">WeddingCuy - Wedding Organizer Website</h3>
 
   <p align="center">
     An Awesome Simple Crud Laravel with image upload
@@ -9,10 +9,11 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/iqbalprasettya/simple-crud-laravel/total) ![Contributors](https://img.shields.io/github/contributors/iqbalprasettya/simple-crud-laravel?color=dark-green) ![Forks](https://img.shields.io/github/forks/iqbalprasettya/simple-crud-laravel?style=social) ![Stargazers](https://img.shields.io/github/stars/iqbalprasettya/simple-crud-laravel?style=social) 
+![Downloads](https://img.shields.io/github/downloads/iqbalprasettya/weddingcuy/total) ![Contributors](https://img.shields.io/github/contributors/iqbalprasettya/weddingcuy?color=dark-green) ![Forks](https://img.shields.io/github/forks/iqbalprasettya/weddingcuy?style=social) ![Stargazers](https://img.shields.io/github/stars/iqbalprasettya/weddingcuy?style=social) 
 
 
-![screen-capture](https://github.com/iqbalprasettya/simple-crud-laravel/assets/97178562/a370d59f-7497-443a-9227-7571756c0137)
+[screen-capture.webm](https://github.com/iqbalprasettya/weddingcuy/assets/97178562/6ce26685-8a4b-4e06-a64f-2e2cf6eed0f3)
+
 
 
 
