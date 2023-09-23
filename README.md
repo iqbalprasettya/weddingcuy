@@ -3,7 +3,7 @@
   <h3 align="center">WeddingCuy - Wedding Organizer Website</h3>
 
   <p align="center">
-    An Awesome Simple Crud Laravel with image upload
+    This Wedding Organizer website was created by me when carrying out a Skills Competition Test or UJIKOM at a vocational school
     <br/>
     <br/>
   </p>
